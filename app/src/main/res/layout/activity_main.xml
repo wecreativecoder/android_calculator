@@ -29,7 +29,7 @@
         android:ems="10"
         android:hint="@string/enter_first_number"
         android:inputType="number"
-        android:padding="10dp" />
+        android:padding="11dp" />
 
     <EditText
         android:id="@+id/etsecondValue"
